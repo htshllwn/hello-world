@@ -1,2 +1,2 @@
 # hello-world
-Just trying to learn how to use github
+Removed the earlier line so that i can understand about branches
